@@ -6,6 +6,7 @@
 
 1. [eslint 配置练习项目](https://github.com/front-end-study-program/eslint-config)
 2. [styleLint 配置练习项目](https://github.com/front-end-study-program/stylelint-config)
+3. [prettier 配置练习项目](https://github.com/front-end-study-program/prettier-config)
 
 ## vscode 配置
 
