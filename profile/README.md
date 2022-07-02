@@ -16,6 +16,7 @@
 
 1. [vite 后台练习项目](https://github.com/front-end-study-program/vite-ts-vue3-admin)
 2. [electron 练习项目](https://github.com/front-end-study-program/vite-electron-react-music)
+3. [vue组件开发项目](https://github.com/front-end-study-program/vue-components)
 
 ## 面试必备
 
