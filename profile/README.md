@@ -21,3 +21,7 @@
 ## 面试必备
 
 1. [面试题整理项目](https://github.com/front-end-study-program/interview-questions)
+
+## 快速搭建模板项目
+
+1. [vite-vue3-template](https://github.com/front-end-study-program/vite-vue3-template)
