@@ -18,8 +18,6 @@
 1. [vite 后台练习项目](https://github.com/front-end-study-program/vite-ts-vue3-admin)
 2. [electron 练习项目](https://github.com/front-end-study-program/vite-electron-react-music)
 3. [vue组件开发项目](https://github.com/front-end-study-program/vue-components)
-4. [vue3+vite模板项目](https://github.com/front-end-study-program/vite-vue3-template)
-5. [vue2.7模板项目](https://github.com/front-end-study-program/vue2.7-template)
 
 ## 面试必备
 
@@ -29,3 +27,5 @@
 ## 快速搭建模板项目
 
 1. [vite-vue3-template](https://github.com/front-end-study-program/vite-vue3-template)
+2. [vue2.7-template](https://github.com/front-end-study-program/vue2.7-template)
+ 
