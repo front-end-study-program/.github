@@ -28,5 +28,6 @@
 
 1. [vite-vue3-template](https://github.com/front-end-study-program/vite-vue3-template)
 2. [vue2.7-template](https://github.com/front-end-study-program/vue2.7-template)
+3. [quick-ts-template](https://github.com/front-end-study-program/quick-ts-template)
  
 ## 命令行工具
