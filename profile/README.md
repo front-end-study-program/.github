@@ -2,12 +2,13 @@
 
 前端体系的练习工程组织
 
-## 工程格式化配置
+## 工程化相关
 
 1. [eslint 配置练习项目](https://github.com/front-end-study-program/eslint-config)
 2. [styleLint 配置练习项目](https://github.com/front-end-study-program/stylelint-config)
 3. [prettier 配置练习项目](https://github.com/front-end-study-program/prettier-config)
 4. [commitlint 配置练习项目](https://github.com/front-end-study-program/commitlint-config)
+5. [test 测试练习项目](https://github.com/front-end-study-program/test-playground)
 
 ## vscode 配置
 
