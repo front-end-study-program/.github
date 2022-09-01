@@ -32,6 +32,7 @@
 3. [quick-ts-template](https://github.com/front-end-study-program/quick-ts-template)
  
 ## 命令行工具
+1. [study-sea-cli](https://github.com/front-end-study-program/study-sea-cli)
 
 ## 开发疑难杂症
 1. [dev-issues-collect](https://github.com/front-end-study-program/dev-issues-collect)
