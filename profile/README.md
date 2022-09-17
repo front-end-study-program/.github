@@ -42,3 +42,6 @@
 
 ## 后台练习
 1. [node](https://github.com/front-end-study-program/node-playground)
+
+## 前端方案
+1. [主题切换](https://github.com/front-end-study-program/fe-theme)
