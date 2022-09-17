@@ -2,6 +2,8 @@
 
 前端体系的练习工程组织
 
+每天学一点，积少成多。
+
 ## 工程化相关
 
 1. [eslint 配置练习项目](https://github.com/front-end-study-program/eslint-config)
